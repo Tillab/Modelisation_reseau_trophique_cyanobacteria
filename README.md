@@ -15,4 +15,6 @@ Nos résultats ont mis en évidence le rôle particulièrement important des bac
 
 **Limites :** Les incertitudes aux contraintes imposées au modèle LIM. En effet, les flux trophiques estimés dépendent de la précision des données d’entrée et des hypothèses utilisées pour représenter les interactions entre les organismes.
 
-<img src = data/article_cyano_SEM.png height = 300 >
+[L'article](https://pubmed.ncbi.nlm.nih.gov/29416126/)
+
+<img src = data/article_cyano_SEM_text.png height = 300 >
